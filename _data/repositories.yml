@@ -2,6 +2,6 @@ github_users:
   - sclayton33
 
 github_repos:
-#   - sclayton33/pdxdb
-#   - sclayton33/physio-calc
-#   - sclayton33/
+  - sclayton33/pdxdb
+  - sclayton33/physio-calc
+  - sclayton33/
