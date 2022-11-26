@@ -2,31 +2,29 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Stuart Clayton
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1994
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Biomedical Science (ongoing)
+      institution: West Virginia University, West Virginia, United States
+      year: 2022 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Pathophysiology, Rehabilitation, and Performance
+    - title: BS in Exercise Physiology
+      institution: West Virginia University, West Virginia, United States
+      year: 2017
+      description:
+        - Minor in Biology
+        - Health Professions emphasis
+        - title: Honors
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Magna Cum Laude
 
 - title: Experience
   type: time_table
