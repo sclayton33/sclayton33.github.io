@@ -8,7 +8,7 @@ middle_name:
 last_name: Clayton
 email: saclayton@mix.wvu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  My personal blog where I post about whatever interests me.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -113,9 +113,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Stuarts Blog # blog_name will be displayed in your blog page
+blog_name: Stuart's Blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: my thoughts on medicine, tech, the future, and anything else
+blog_description: my thoughts on health, tech, the future, and anything else
 permalink: /blog/:year/:title/
 
 # Pagination
