@@ -22,7 +22,7 @@ Here you can find many totally interesting things:
 - Blog posts that can range widely in topics but will likely focus around medicine, programming, or gaming. They may or may not be opinionated. 
 - A list of all [publications](https://sclayton33.github.io/publications) I am authored on. 
 - Details about any projects that I may be working on.
-- A CV page.
+- My full CV with education history, work experience, research experience, and other things of note.
 - Any educational materials that I may create along the way.
 
 Thanks for looking!
