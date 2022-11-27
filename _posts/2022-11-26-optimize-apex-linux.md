@@ -45,3 +45,5 @@ After trying out many different combinations, here is what I feel to be the best
   - alt + shift + F12 will enable/disable it.
   - Check if it's disabled by running this from command line, false means it is disabled. 
     - qdbus org.kde.KWin /Compositor org.kde.kwin.Compositing.active 
+
+Hopefully this helps your games!
