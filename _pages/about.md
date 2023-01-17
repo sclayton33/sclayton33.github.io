@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 Hello! My name is Stuart. I am a biomedical researcher, programmer, and all-around tech/science nerd. 
 
 Here you can find many totally interesting things:
-- Blog posts that can range widely in topics but will likely focus around medicine, programming, or gaming. They may or may not be opinionated. 
+- Blog posts that can range widely in topics but will likely focus around medicine, programming, or gaming.
 - A list of all [publications](https://sclayton33.github.io/publications) I am authored on. 
 - Details about any projects that I may be working on.
 - My full CV with education history, work experience, research experience, and other things of note.
