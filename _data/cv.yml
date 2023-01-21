@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Stuart Clayton
-    - name: Date of Birth
-      value: 1994
     - name: Languages
       value: English
 
@@ -18,7 +16,7 @@
         - Pathophysiology, Rehabilitation, and Performance
     - title: BS in Exercise Physiology
       institution: West Virginia University, West Virginia, United States
-      year: 2017
+      year: 2013 - 2017
       description:
         - Minor in Biology
         - Health Professions emphasis
