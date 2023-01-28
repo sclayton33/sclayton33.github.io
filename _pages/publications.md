@@ -8,6 +8,7 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
+[ORCID](https://orcid.org/0000-0002-6863-4822) | [Web of Science](https://www.webofscience.com/wos/author/record/3841816)
 <div class="publications">
 
 {%- for y in page.years %}
