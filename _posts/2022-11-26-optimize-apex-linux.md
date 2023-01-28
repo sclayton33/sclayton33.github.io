@@ -9,8 +9,8 @@ categories: computer
 With the progress made largely by Valve and other developers on the compatability layer [Proton](https://github.com/ValveSoftware/Proton), it is now possible to play many games on Linux that historically have been unplayable. With their push for some anti-cheat support (namely Easy Anti-Cheat and Battleye) leading up to the Steam Deck release, many games with anti-cheat are now also playable. Apex Legends being one of them.
 
 This brief article will highlight some things you can try to optimize your gameplay experience on Linux.
-***
 
+***
 ## Steam tweaks
 
 1.) Set launch options
@@ -44,7 +44,8 @@ It's important to note that you **should not use bleeding-edge for every game** 
 Unlike on Windows, you have many options for different desktop environments on Linux. Your choice may impact how well games perform and how responsive they feel.
 
 After trying out many different combinations, here is what I feel to be the best:
-- KDE Plasma
+- KDE Plasma X11
+  - These settings are not relevant if you are using Wayland.
 - Compositing turned off
   - ```alt + shift + F12``` will enable/disable it.
   - Check if it's disabled by running this from command line, false means it is disabled. 
