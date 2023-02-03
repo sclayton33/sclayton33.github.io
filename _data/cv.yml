@@ -3,8 +3,10 @@
   contents:
     - name: Full Name
       value: Stuart Clayton
-    - name: Languages
+    - name: Natural Languages
       value: English
+    - name: Programming Languages
+      value: Python, R, HTML, Markdown
 
 - title: Education
   type: time_table
@@ -14,6 +16,11 @@
       year: 2022 - present
       description:
         - Pathophysiology, Rehabilitation, and Performance
+    - title: MS in Health Science (incomplete)
+      institution: West Virginia University, West Virginia, United States
+      year: 2017 - 2018
+      description:
+        - Did not finish due to financial reasons. 30/37 credits completed.
     - title: BS in Exercise Physiology
       institution: West Virginia University, West Virginia, United States
       year: 2013 - 2017
@@ -27,67 +34,119 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate research assistant in lab of Dr. Emidio Pistilli
+      area: Muscle Physiology & Cancer
+      institution: West Virginia University, West Virginia, United States
+      year: 2022 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Effects of breast cancer on skeletal muscle fatigue
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - The significance of this research is to first establish if skeletal muscle fatigue occurs in the absence of cachexia. Secondly, the aim is to establish the underlying mechanisms as to how this muscle fatigue progresses.
+            - Implant existing female breast cancer patient-derived xenografts (PDXs) into NSG mice for our current tumor model.
+            - Currently working on establishing male breast cancer PDXs in NSG mice to examine any sex differences in skeletal muscle physiology.
+            - title:
+              contents:
+                - Castration, RNA isolation, RNA-seq analysis.
+    - title: Graduate research assistant in lab of Dr. Mark Olfert
+      area: Cardiovascular & Respiratory
+      institution: West Virginia University, West Virginia, United States
+      year: 2017 - 2018
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - title: Acute effects of e-cigarette exposure on peripheral vascular function.
+          contents:
+            - The significance of this research is to further understanding of the impacts of e-
+cigarette use on the cardiovascular system.
+            - Performed surgical procedures on rats.
+            - Used ultrasound on rats to measure flow-mediated dilation.
+    - title: Undergraduate research assistant in lab of Dr. Sergiy Yakovenko
+      area: Neuroscience
+      institution: West Virginia University, West Virginia, United States
+      year: 2017
       description:
+        - Aided with collection and analysis of data gathered from human subjects.
+    - title: Undergraduate research assistant in lab of Dr. Paul Chantler
+      area: Cardiovascular
+      institution: West Virginia University, West Virginia, United States
+      year: 2016 - 2017
+      description:
+        - title: Effects of depression and stress on cardiovascular system in rats.
+          contents:
+            - The significance of this project is the potential information it can yield on determining the largest areas of risk for developing cardiovascular disease in individuals with chronic depression and/or high stress.
+            - Performed basic nutritional, medical, and physiological tasks on laboratory rats.
+            - Performed post-mortem macro- and microsurgery procedures. Macro includes organ removal and sectioning of excised organs. Micro includes removal of superficial brain vessels under a microscope.
+            - Performed assays on tissue samples, such as western blot and immuno-fluorescence.
+            - Data analysis.
+        - title: Influence of electronic cigarettes on vascular function in mice.
+          contents:
+            - This research is significant because at the moment very little is known about the long-term effects of e-cigarettes on the vascular system.
+            - Analyzed ultrasound echo-cardiography and pulse-wave velocity data from mice.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Work Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Research Technician, Genetic and Tumor Model Core Facility
+      institution: West Virginia University Research Corp
+      year: 2019 - 2022
+      description:
+        - Create new Patient-derived Xenograft (PDX) lines from human tumor samples.
+        - Maintain and expand existing PDX lines.
+        - Extract DNA from original and engrafted tumor cells for short tandem repeat authentication.
+        - Maintain forms and documentation for procedures and projects.
+        - Maintain any supplies, reagents, or equipment needed for the core.
+        - Assist with any technical work necessary to carry out projects for investigators.
+        - title: Technical duties included
+            contents:
+            - Colony management and breeding, tumor resection, tumor tissue/cells transplant/injection, tissue collection, tumor tissue dissociation (using Miltenyi AutoMacs), tagging, tail clipping, ear punch, weaning, euthanasia (isoflurane & CO2), hormone pellets transplant, SQ/IP injection, survival surgeries, blood collection, mice fluorescent (IVIS) and ultrasound imaging, ultrasound image tumor volume analysis, mouse and cell irradiation, intracranial injections, sperm cryo for mouse strain preservation, working in ABSL2 environments.
+    - title: Information Technology
+      institution: West Virginia University, West Virginia, United States
+      year: 2015
+      description:
+        - Provide basic technical support for Windows based computers
+    - title: Personal Trainer
+      institution: Stansbury Fitness Center
+      year: 2014 - 2016
+      description:
+        - Perform baseline fitness tests on new clients or progress tests on existing
+        - Plan workout routines for clients
+        - Guide clients through exercises if desired
 
-- title: Honors and Awards
+- title: Conferences Attended
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - year: 2017
+      items:
+        - Experimental Biology 2017; Chicago, IL
+        - Van Liere Research Day 2017; Morgantown, WV
+        - Undergraduate Research Day at West Virginia University 2017; Morgantown, WV
+        - Allegheny-Erie Toxicology Regional Conference 2017; Morgantown, WV
+
+- title: Certifications
+  type: nested_list
+  contents:
+    - title:  <a href="https://www.credly.com/badges/8b683bf2-c674-4285-a637-7c35e427850a/public_url">IBM Data Science Professional Certificate (V2)</a>
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         -
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Effects of cancer on skeletal muscle physiology
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Whether breast cancer induces muscle fatigue in the absence of cachexia.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Video games, Programming, Hiking, Travel
