@@ -35,7 +35,7 @@
   type: time_table
   contents:
     - title: Graduate research assistant in lab of Dr. Emidio Pistilli
-#       institution: Muscle Physiology & Cancer
+      institution: Muscle Physiology & Cancer
       institution: West Virginia University, West Virginia, United States
       year: 2022 - present
       description:
@@ -44,11 +44,11 @@
             - The significance of this research is to first establish if skeletal muscle fatigue occurs in the absence of cachexia. Secondly, the aim is to establish the underlying mechanisms as to how this muscle fatigue progresses.
             - Implant existing female breast cancer patient-derived xenografts (PDXs) into NSG mice for our current tumor model.
             - Currently working on establishing male breast cancer PDXs in NSG mice to examine any sex differences in skeletal muscle physiology.
-            - title:
+            - title: Technical skills learned
               contents:
                 - Castration, RNA isolation, RNA-seq analysis.
     - title: Graduate research assistant in lab of Dr. Mark Olfert
-#       institution: Cardiovascular & Respiratory
+      institution: Cardiovascular & Respiratory
       institution: West Virginia University, West Virginia, United States
       year: 2017 - 2018
       description:
@@ -58,13 +58,13 @@
             - Performed surgical procedures on rats.
             - Used ultrasound on rats to measure flow-mediated dilation.
     - title: Undergraduate research assistant in lab of Dr. Sergiy Yakovenko
-#       institution: Neuroscience
+      institution: Neuroscience
       institution: West Virginia University, West Virginia, United States
       year: 2017
       description:
         - Aided with collection and analysis of data gathered from human subjects.
     - title: Undergraduate research assistant in lab of Dr. Paul Chantler
-#       institution: Cardiovascular
+      institution: Cardiovascular
       institution: West Virginia University, West Virginia, United States
       year: 2016 - 2017
       description:
