@@ -35,7 +35,7 @@
   type: time_table
   contents:
     - title: Graduate research assistant in lab of Dr. Emidio Pistilli
-      area: Muscle Physiology & Cancer
+      institution: Muscle Physiology & Cancer
       institution: West Virginia University, West Virginia, United States
       year: 2022 - present
       description:
@@ -48,7 +48,7 @@
               contents:
                 - Castration, RNA isolation, RNA-seq analysis.
     - title: Graduate research assistant in lab of Dr. Mark Olfert
-      area: Cardiovascular & Respiratory
+      institution: Cardiovascular & Respiratory
       institution: West Virginia University, West Virginia, United States
       year: 2017 - 2018
       description:
@@ -59,13 +59,13 @@ cigarette use on the cardiovascular system.
             - Performed surgical procedures on rats.
             - Used ultrasound on rats to measure flow-mediated dilation.
     - title: Undergraduate research assistant in lab of Dr. Sergiy Yakovenko
-      area: Neuroscience
+      institution: Neuroscience
       institution: West Virginia University, West Virginia, United States
       year: 2017
       description:
         - Aided with collection and analysis of data gathered from human subjects.
     - title: Undergraduate research assistant in lab of Dr. Paul Chantler
-      area: Cardiovascular
+      institution: Cardiovascular
       institution: West Virginia University, West Virginia, United States
       year: 2016 - 2017
       description:
