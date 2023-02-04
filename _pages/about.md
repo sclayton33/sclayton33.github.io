@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <!--<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.-->
 
 profile:
   align: right
@@ -20,7 +20,7 @@ Hello! My name is Stuart. I am a biomedical researcher, programmer, and all-arou
 
 Here you can find many totally interesting things:
 - Blog posts that can range widely in topics but will likely focus around medicine, programming, or gaming.
-- A list of all [publications and abstracts](https://sclayton33.github.io/publications) I am authored on. 
+- A list of all publications and abstracts I am authored on.
 - Details about any projects that I may be working on.
 - My full CV with education history, work experience, research experience, and other things of note.
 - Any educational materials that I may create along the way.
