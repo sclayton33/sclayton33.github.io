@@ -530,6 +530,7 @@ footer.sticky-bottom {
           }
         }
         > em {
+          color: var(--global-theme-color);
           border-bottom: 1px solid var(--global-theme-color);
           font-style: normal;
         }
