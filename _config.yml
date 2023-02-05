@@ -59,8 +59,8 @@ max_width: 1200px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -80,7 +80,7 @@ orcid_id: 0000-0002-6863-4822
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: AGZ-4635-2022 # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Stuart-Clayton-2 # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
