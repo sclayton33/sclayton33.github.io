@@ -3,10 +3,10 @@
   contents:
     - name: Full Name
       value: Stuart Clayton
-    - name: Natural Languages
+    - name: Languages
       value: English
-    - name: Programming Languages
-      value: Python, R, HTML, Markdown
+    - name: Programming
+      value: Python, R, HTML, SQL, Linux
 
 - title: Education
   type: time_table
