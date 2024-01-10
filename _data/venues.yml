@@ -7,3 +7,9 @@
 
 "IJMS":
   url: https://www.mdpi.com/journal/ijms
+
+"Manuscript":
+  color: "#0693e3"
+
+"Abstract":
+  color: "#37d67a"
