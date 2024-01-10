@@ -9,6 +9,24 @@
           {%- else -%}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview | prepend: '/assets/img/publication_preview/' | relative_url }}">
           {%- endif -%}
+        {%- if entry.link_abbr -%}
+          {%- if site.data.venues[entry.link_abbr] -%}
+            {%- assign venue_style = nil -%}
+            {%- if site.data.venues[entry.link_abbr].color != blank -%}
+              {%- assign venue_style = site.data.venues[entry.link_abbr].color | prepend: 'style="background-color:' | append: '"' -%}
+            {%- endif -%}
+            <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.link_abbr].url}}">{{entry.link_abbr}}</a></abbr>
+          {%- else -%}
+            <abbr class="badge">{{entry.link_abbr}}</abbr>
+          {%- endif -%}
+        {%- if entry.desc_abbr -%}
+          {%- if site.data.venues[entry.desc_abbr] -%}
+            {%- assign venue_style = nil -%}
+            {%- if site.data.venues[entry.desc_abbr].color != blank -%}
+              {%- assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' -%}
+            {%- endif -%}
+            <abbr class="badge">{{entry.desc_abbr}}</abbr>
+          {%- endif -%}
 <!--         {%- elsif entry.abbr -%}
           {%- if site.data.venues[entry.abbr] -%}
             {%- assign venue_style = nil -%}
@@ -19,7 +37,7 @@
           {%- else -%}
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%} -->
-         {%- if entry.link_abbr -%}
+<!--          {%- if entry.link_abbr -%}
            {%- if site.data.venues[entry.link_abbr] -%}
              <abbr class="badge">
               <a href="{{site.data.venues[entry.link_abbr].url}}">{{entry.link_abbr}}</a>
@@ -29,7 +47,7 @@
             
          {%- if entry.desc_abbr -%}
            <abbr class="badge">{{entry.desc_abbr}}</abbr>
-         {%- endif -%}
+         {%- endif -%} -->
         {%- endif -%}
         </div>
 
