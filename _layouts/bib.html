@@ -9,19 +9,7 @@
           {%- else -%}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview | prepend: '/assets/img/publication_preview/' | relative_url }}">
           {%- endif -%}
-        {% assign abbreviation_list = "link_abbr,desc_abbr" | split: "," %}
-        {% for abbr_field in abbreviation_list %}
-          {% if entry[abbr_field] %}
-            {% if abbr_field == 'link_abbr' and site.data.venues[entry[abbr_field]] %}
-              <abbr class="badge">
-                <a href="{{site.data.venues[entry[abbr_field]].url}}">{{entry[abbr_field]}}</a>
-              </abbr>
-            {% else %}
-              <abbr class="badge">{{entry[abbr_field]}}</abbr>
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-<!--         {%- elsif entry.abbr -%}
+        {%- elsif entry.abbr -%}
           {%- if site.data.venues[entry.abbr] -%}
             {%- assign venue_style = nil -%}
             {%- if site.data.venues[entry.abbr].color != blank -%}
@@ -30,18 +18,7 @@
             <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
           {%- else -%}
             <abbr class="badge">{{entry.abbr}}</abbr>
-          {%- endif -%} -->
-<!--          {%- if entry.link_abbr -%}
-           {%- if site.data.venues[entry.link_abbr] -%}
-             <abbr class="badge">
-              <a href="{{site.data.venues[entry.link_abbr].url}}">{{entry.link_abbr}}</a>
-                </abbr>
-            {%- endif -%}
-         {%- endif -%}
-            
-         {%- if entry.desc_abbr -%}
-           <abbr class="badge">{{entry.desc_abbr}}</abbr>
-         {%- endif -%} -->
+          {%- endif -%}
         {%- endif -%}
         </div>
 
