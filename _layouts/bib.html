@@ -25,9 +25,11 @@
                   <a href="{{site.data.venues[entry.link_abbr].url}}">{{entry.link_abbr}}</a>
                 </abbr>
               {%- endif -%}
-            {%- elsif entry.desc_abbr -%}
+            {%- endif -%}
+            
+            {%- if entry.desc_abbr -%}
               <abbr class="badge">{{entry.desc_abbr}}</abbr>
-            {%- endif -%}       
+            {%- endif -%}
         {%- endif -%}
         </div>
 
