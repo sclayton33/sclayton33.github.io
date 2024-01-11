@@ -44,7 +44,7 @@
             - Currently working on establishing male breast cancer PDXs in NSG mice to examine any sex differences in skeletal muscle physiology.
         - title: Technical skills learned
           contents:
-            - Castration, RNA isolation, RNA-seq analysis, Whole-Exome analysis, exosome isolation, culturing of primary tumor cells. 
+            - Castration, RNA isolation, RNA-seq analysis, Whole-Exome analysis, exosome isolation, culturing of primary tumor cells.
     - title: Graduate research assistant in lab of Dr. Mark Olfert
       topic: Cardiovascular & Respiratory
       institution: West Virginia University, West Virginia, United States
@@ -114,7 +114,7 @@
 - title: Certifications
   type: nested_list
   contents:
-    - title:  <a href="https://www.credly.com/badges/8b683bf2-c674-4285-a637-7c35e427850a/public_url">IBM Data Science Professional Certificate (V2)</a>
+    - title: <a href="https://www.credly.com/badges/8b683bf2-c674-4285-a637-7c35e427850a/public_url">IBM Data Science Professional Certificate (V2)</a>
 
 # - title: Open Source Projects
 #   type: time_table
@@ -134,7 +134,7 @@
   type: nested_list
   contents:
     - title: Effects of cancer on skeletal muscle physiology
-      items: 
+      items:
         - Mechanisms of how breast cancer induces fatigue in skeletal muscle.
     - title: Applications of computational biology
       items:
