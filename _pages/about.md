@@ -22,6 +22,7 @@ social: true # includes social icons at the bottom of the page
 Hello! My name is Stuart. I am a biomedical researcher, programmer, and all-around tech/science nerd.
 
 Here you can find many totally interesting things:
+
 - Blog posts that can range widely in topics but will likely focus around medicine, programming, or gaming.
 - A list of all publications and abstracts I am authored on.
 - Details about any projects that I may be working on.
