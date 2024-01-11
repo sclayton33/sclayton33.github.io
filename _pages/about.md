@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD Student</p>
-    <p>West Virginia University</p>
-    <p>Morgantown, WV 26505</p>
+    <p>PhD Student<br>
+    West Virginia University<br>
+    Morgantown, WV 26505</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
