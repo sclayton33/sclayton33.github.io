@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sclayton33
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - PistilliLab/CLAMSwrangler-web
+  - PistilliLab/RNAseq-pipeline
+  - sclayton33/bioinformatics
+  - sclayton33/pdxdb
+  - sclayton33/physio-calc
+  - sclayton33/open-journal
