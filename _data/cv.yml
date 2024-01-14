@@ -104,6 +104,9 @@
 - title: Conferences Attended
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - Great Lakes Breast Cancer Research Symposium 2023; Morgantown, WV
     - year: 2017
       items:
         - Experimental Biology 2017; Chicago, IL
