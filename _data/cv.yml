@@ -106,13 +106,13 @@
   contents:
     - year: 2023
       items:
-        - Great Lakes Breast Cancer Research Symposium 2023; Morgantown, WV
+        - Great Lakes Breast Cancer Research Symposium; Morgantown, WV
     - year: 2017
       items:
-        - Experimental Biology 2017; Chicago, IL
-        - Van Liere Research Day 2017; Morgantown, WV
-        - Undergraduate Research Day at West Virginia University 2017; Morgantown, WV
-        - Allegheny-Erie Toxicology Regional Conference 2017; Morgantown, WV
+        - Experimental Biology; Chicago, IL
+        - Van Liere Research Day; Morgantown, WV
+        - Undergraduate Research Day at West Virginia University; Morgantown, WV
+        - Allegheny-Erie Toxicology Regional Conference; Morgantown, WV
 
 - title: Certifications
   type: nested_list
