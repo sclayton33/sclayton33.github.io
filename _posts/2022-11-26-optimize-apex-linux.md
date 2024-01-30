@@ -37,7 +37,7 @@ Descriptions of commands:
 
   - Set this to your monitors refresh rate minus 4, e.g. if it's 100, you would put 96. This should help prevent tearing and stutter.
 
-  2.) Proton experimental
+    2.) Proton experimental
 
 Switching to the experimental branch may offer some performance improvements. You can also use the _bleeding-edge_ branch, which I do personally. To switch to it, go to your steam library > set filter to tools > find Proton Experimental in the list > right-click > properties > Betas > bleeding-edge.
 
