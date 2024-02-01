@@ -106,13 +106,23 @@
   contents:
     - year: 2023
       items:
-        - Great Lakes Breast Cancer Research Symposium; Morgantown, WV
+        - Poster Co-author, Great Lakes Breast Cancer Research Symposium; Morgantown, WV
     - year: 2017
       items:
-        - Experimental Biology; Chicago, IL
-        - Van Liere Research Day; Morgantown, WV
-        - Undergraduate Research Day at West Virginia University; Morgantown, WV
-        - Allegheny-Erie Toxicology Regional Conference; Morgantown, WV
+        - Poster Presenter, Experimental Biology; Chicago, IL
+        - Poster Presenter, Van Liere Research Day; Morgantown, WV
+        - Poster Presenter, Undergraduate Research Day at West Virginia University; Morgantown, WV
+        - Poster Presenter, Allegheny-Erie Toxicology Regional Conference; Morgantown, WV
+
+- title: Leadership
+  type: time_table
+  contents:
+    - year: 2018
+      items:
+        - Catalyzing Advocacy in Science and Engineering (CASE) workshop in Washington, D.C. Hosted by the American Association for the Advancement of Science (AAAS).
+    - year: 2016 - 2017
+      items:
+        - Executive Director of Sustainability, West Virginia University Student Government Association
 
 - title: Certifications
   type: nested_list
