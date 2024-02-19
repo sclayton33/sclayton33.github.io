@@ -21,6 +21,10 @@ social: true # includes social icons at the bottom of the page
 
 Hello! My name is Stuart. I am a biomedical researcher, programmer, and all-around tech/science nerd.
 
+I am currently pursuing a PhD in Pathophysiology, Rehabilitation and Performance at West Virginia University. My primary research focus is on understanding the effects of breast cancer on skeletal muscle metabolism and subsequent fatigue, both in terms of metabolome and mitochondrial dysfunction. With the hopes that this research will lead to a deeper understanding of the pathology of fatigue and identify actionable treatment targets.
+
+My secondary interests center around the application of technology to advancing solutions in biomedical problems. In particular I enjoy learning about bioinformatics and applying those skills wherever possible in both my own resarch and through collaborations.
+
 Here you can find many totally interesting things:
 
 - Blog posts that can range widely in topics but will likely focus around medicine, programming, or gaming.
