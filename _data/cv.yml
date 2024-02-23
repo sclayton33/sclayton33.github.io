@@ -104,6 +104,9 @@
 - title: Conferences Attended
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - Oral and Poster Presenter, Translational Research Cancer Centers Consortium; Champion, PA
     - year: 2023
       items:
         - Poster Co-author, Great Lakes Breast Cancer Research Symposium; Morgantown, WV
@@ -146,13 +149,12 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Effects of cancer on skeletal muscle physiology
+    - title: Effects of breast cancer on skeletal muscle metabolism
       items:
-        - Mechanisms of how breast cancer induces fatigue in skeletal muscle.
-    - title: Applications of computational biology
+        - Understand metabolic alterations due to breast cancer and how they contribute to skeletal muscle fatigue
+    - title: Bioinformatics/Computational Biology
       items:
-        - Many kinds of bioinformatics (RNA-seq, Whole-Exome, Proteomics, etc.)
-        - Use of molecular interaction simulations to inform potential therapeutic targets
+        - Bulk RNA-seq, scRNA-seq, scMultiome, Whole-Exome, Metabolomics, Proteomics, etc.
 
 - title: Other Interests
   type: list
