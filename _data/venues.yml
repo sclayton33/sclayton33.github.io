@@ -9,7 +9,10 @@
   url: https://www.mdpi.com/journal/ijms
 
 "Manuscript":
-  color: "#0693e3"
+  color: "#b80000"
 
-"Abstract":
-  color: "#37d67a"
+"Published Abstract":
+  color: "#008B02"
+
+"Conference Abstract":
+  color: "#004dcf"  
