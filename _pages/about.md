@@ -33,4 +33,6 @@ Here you can find many totally interesting things:
 - My full CV with education history, work experience, research experience, and other things of note.
 - Any educational materials that I may create along the way.
 
+If you would like to contact me, I can be best reached by email or LinkedIn.
+
 Thanks for looking!
