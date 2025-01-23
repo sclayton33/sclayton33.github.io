@@ -128,10 +128,15 @@
         - Executive Director of Sustainability, West Virginia University Student Government Association
 
 - title: Certifications
-  type: list
+  type: time_table
   contents:
-    - <a href="https://www.credly.com/badges/8b683bf2-c674-4285-a637-7c35e427850a/public_url">IBM Data Science Professional Certificate (V2)</a>
-    - <a href="https://courses.edx.org/certificates/5e19cb581e344cdf99a1c64101c9a984">edX Verified Certificate for Cell Biology - Mitochondria</a>
+    - year: 2025
+      items:
+        - <a href="https://courses.edx.org/certificates/5e19cb581e344cdf99a1c64101c9a984">edX Verified Certificate for Cell Biology - Mitochondria</a>
+    - year: 2021
+      items:
+        - <a href="https://www.credly.com/badges/8b683bf2-c674-4285-a637-7c35e427850a/public_url">IBM Data Science Professional Certificate (V2)</a>
+    
 
 # - title: Open Source Projects
 #   type: time_table
