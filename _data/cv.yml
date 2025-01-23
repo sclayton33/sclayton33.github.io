@@ -131,6 +131,7 @@
   type: nested_list
   contents:
     - title: <a href="https://www.credly.com/badges/8b683bf2-c674-4285-a637-7c35e427850a/public_url">IBM Data Science Professional Certificate (V2)</a>
+    - title: <a href="https://courses.edx.org/certificates/5e19cb581e344cdf99a1c64101c9a984">edX Verified Certificate for Cell Biology: Mitochondria</a>
 
 # - title: Open Source Projects
 #   type: time_table
