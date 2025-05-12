@@ -127,11 +127,12 @@
       items:
         - Executive Director of Sustainability, West Virginia University Student Government Association
 
-- title: Certifications
+- title: Certifications/Certificates
   type: time_table
   contents:
     - year: 2025
       items:
+        - <a href="/assets/img/Stanford_Bioinformatics_cert.png">Stanford Genetics - Funadamentals of Data Science in Precision Medicine and Cloud Computing</a>
         - <a href="https://courses.edx.org/certificates/5e19cb581e344cdf99a1c64101c9a984">edX Verified Certificate for Cell Biology - Mitochondria</a>
     - year: 2021
       items:
