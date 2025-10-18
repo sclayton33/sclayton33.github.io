@@ -104,6 +104,9 @@
 - title: Conferences Attended
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Poster Presenter, Van Liere and WV IDeA Research Conference; Morgantown, WV
     - year: 2024
       items:
         - Oral and Poster Presenter, Translational Research Cancer Centers Consortium; Champion, PA
@@ -120,6 +123,9 @@
 - title: Leadership
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Vice President of Pathophysiology, Rehabilitation, and Performance Graduate Student Organization
     - year: 2018
       items:
         - Catalyzing Advocacy in Science and Engineering (CASE) workshop in Washington, D.C. Hosted by the American Association for the Advancement of Science (AAAS).
@@ -156,9 +162,9 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Effects of breast cancer on skeletal muscle metabolism
+    - title: Effects of breast cancer on skeletal muscle function
       items:
-        - Understand metabolic alterations due to breast cancer and how they contribute to skeletal muscle fatigue
+        - Understand functional and mitochondrial alterations in skeletal muscle due to breast cancer and their contributions to muscle dysfunction.
     - title: Bioinformatics/Computational Biology
       items:
         - Bulk RNA-seq, scRNA-seq, scMultiome, Whole-Exome, Metabolomics, Proteomics, etc.
