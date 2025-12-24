@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managing your online research presence as a scientist
-date: 2025-12-23 21:39:00 -11:00
+date: 2025-12-22 21:39:00 -11:00
 description: a brief guide on curating your work as a scientist
 tags: research science
 categories: research
